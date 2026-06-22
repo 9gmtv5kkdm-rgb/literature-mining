@@ -1,4 +1,4 @@
-# 文献挖掘与阅读笔记 / Literature Mining & Reading Notes
+﻿# 文献挖掘与阅读笔记 / Literature Mining & Reading Notes
 
 > **阅读文献的方法论工具包** — 帮你把文献"读透"而非"搜到"
 >
@@ -56,3 +56,7 @@ literature-manager           → 证据质量评价
 ## ⚠️ 隐私声明 / Privacy Note
 
 本技能所有示例均使用**虚构论文标题和虚构作者姓名**，不包含任何真实论文、作者、机构或数据。All examples use fictional paper titles and fictional author names.
+
+---
+
+作者：刘楠
